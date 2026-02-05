@@ -26,3 +26,6 @@ git add
 git commit
 ↓
 git push
+
+
+Thank you
